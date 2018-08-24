@@ -1,4 +1,4 @@
 #include<iostream>
 int main(){
-	cout << "you are fool!" << endl;
+	std::cout << "you are fool!" << std::endl;
 }
